@@ -13,7 +13,7 @@ Votre mission est d’aider les équipes de X à comprendre les différents type
 
 Après quelques premières analyses, vous vous rendez compte que X ne vous a pas fourni beaucoup de données ; vous enquêtez donc auprès de l’entreprise pour obtenir quelques informations complémentaires, et vérifier que vous avez bien compris la mission.
 
-Vous réalisez donc trois autres documents afin de préparer une réponse à Olist :
+Vous réalisez donc trois autres documents afin de préparer une réponse à X :
 
 - un notebook avec des essais des différentes approches de modélisation ;
 - un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation, afin que celui-ci reste pertinent ;
